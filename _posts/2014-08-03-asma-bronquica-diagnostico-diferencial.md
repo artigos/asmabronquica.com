@@ -4,7 +4,7 @@ title: Diagnóstico diferencial da asma brônquica
 permalink: asma-bronquica-diagnostico-diferencial.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Para fazer um correcto diagnóstico da asma brônquica, deve-se afastar a possibilidade do quadro clínico ser devido a uma das seguintes patologias:
 

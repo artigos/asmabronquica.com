@@ -4,13 +4,13 @@ title: Fisioterapia na asma brônquica
 permalink: asma-bronquica-fisioterapia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-## Tratamento de Fisioterapia
+##  Tratamento de Fisioterapia
 
 Relativamente ao tratamento fisioterapêutico existem duas fases de tratamento: Crise Asmática e Período Inter-crise.
 
-###Crise Asmática
+### Crise Asmática
 
 O doente apresenta-se muito ansioso, tenso e angustiado, tórax bloqueado em posição inspiratória, respiração rápida, descontrolada, predominantemente costal superior, à custa dos músculos acessórios da inspiração, queixas de “falta de ar” e “chiadeira” no peito, sensação de “aperto no peito”.
 
@@ -33,7 +33,7 @@ Imediatamente após a crise, quando há melhoria do brocoespasmo e a tosse come�
 * Massagem de relaxamento (cervical e cintura escapular).
 
 
-###Período Inter-crise
+### Período Inter-crise
 
 Objectivos e Tratamento
 

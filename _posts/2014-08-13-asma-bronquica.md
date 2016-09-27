@@ -4,7 +4,7 @@ title: Asma Brônquica
 permalink: asma-bronquica
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O sentido etimológico da palavra __asma__, advém do grego e significa ofegante; dificuldade na respiração. (Nunes, L., 2003)
 

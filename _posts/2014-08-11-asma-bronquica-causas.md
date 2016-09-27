@@ -4,7 +4,7 @@ title: Causas da asma brônquica
 permalink: asma-bronquica-causas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Até hoje não se sabe ao certo como (ou porquê) uma pessoa adquire a asma. Sabe-se que, uma vez adquirida, os pulmões podem reagir a estímulos que podem desencadear os ataques, ou exacerbações, ou crises de Asma Brônquica.
 Em geral, estes ataques da asma começam ou são "provocados" por algo que agride os pulmões. Estes agentes são denominados __desencadeantes__ da asma.

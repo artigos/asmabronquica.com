@@ -4,17 +4,17 @@ title: Classificação da asma brônquica
 permalink: asma-bronquica-classificacao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A __classificação etiológica__ ou anatomopatológica da doença é difícil, entretanto, tradicionalmente a asma é dividida em duas categorias principais, baseadas na presença ou ausência de um distúrbio imune subjacente (Nunes, L., 2003):
 
 * __Asma Extrínseca (Forma Alérgica):__ o episódio asmático é iniciado por uma reacção de hipersensibilidade tipo I  (imediata) induzida por exposição a um antígeno extrínseco inalado. São reconhecidos três tipos de asma extrínseca: asma ocupacional, aspergilose broncopulmonar alérgica (colonização brônquica por organismos _Aspergillus_ seguida pelo desenvolvimento de anticorpos imunoglubina E [IgE]), e asma atópica (tipo mais comum; tem início geralmente nas duas primeiras décadas de vida, e comummente está associada a outras manifestações alérgicas no paciente, bem como noutros membros da família).
 * __Asma Intrínseca:__ os mecanismos de deflagração são não-imunes. Como tal, vários estímulos podem iniciar um broncoespasmo, incluindo a aspirina, infecções pulmonares (principalmente as causadas por vírus), frio, stress psicológico, exercício e irritantes inalados como dióxido de enxofre. Contudo, deve ser enfatizado que, devido à hiper-reactividade traqueobrônquica inerente, um indivíduo com asma extrínseca também é susceptível ao desenvolvimento de uma crise asmática quando exposta a um dos agentes mencionados. Assim, em vários casos não é possível uma distinção pura entre asma intrínseca e extrínseca.
 
-##Hipersensibilidade
+## Hipersensibilidade
 
 É a ocorrência de uma resposta imune, de forma inapropriada ou exagerada. Podem ser provocadas por vários tipos de antigénios e a sua causa varia de indivíduo para indivíduo. A hipersensibilidade não se manifesta no primeiro contacto com o antigénio, para que tal aconteça é necessário haver primeiro sensibilização. (Kumar, V., 1994)
-##Hipersensibilidade Tipo I
+## Hipersensibilidade Tipo I
 
 Ocorrem quando uma resposta imune mediada por IgE é dirigida contra antigénios ambientais, como por exemplo os ácaros, pó doméstico, pólens e pêlos de animais. (Kumar, V., 1994)
 Os mastócitos ligam-se à IgE. A ligação subsequente a um alergeneo induz desgranulação dos mastócitos e libertação de mediadores que produzem reacções alérgicas. (Kumar, V., 1994)
@@ -78,14 +78,14 @@ __Fig.__ – PFE (pico de fluxo expiratório)
 
 Para além de existir uma classificação para a doença a diversos níveis, também existe uma forma prática e simples de classificar as __crises__ de asma. Assim, a classificação faz-se em: crises leves, moderadas e severas.
 
-##Crise Leve
+## Crise Leve
 
 * Sensação de aperto no peito;
 * Fadiga leve;
 * Síbilos ou tosse quando ri ou faz pequenos esforços;
 * Alteração discreta do PFE (&gt; 80% do esperado).
 
-##Crise Moderada
+## Crise Moderada
 
 * Desconforto perceptível na respiração;
 * Fadiga com esforços moderados;
@@ -94,7 +94,7 @@ Para além de existir uma classificação para a doença a diversos níveis, tam
 * Síbilos;
 * PFE entre 50 a 80% do valor normal do paciente.
 
-##Crise Severa
+## Crise Severa
 
 * Intenso desconforto na respiração;
 * Taquipnéia;

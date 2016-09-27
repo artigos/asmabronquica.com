@@ -4,7 +4,7 @@ title: Manifestações clínicas da asma brônquica
 permalink: asma-bronquica-manifestacoes-clinicas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As __crises agudas__ da asma podem-se iniciar como se de uma simples constipação se tratasse. As manifestações mais comuns da doença são: tosse, respiração ruidosa e ofegante, síbilos, dispneia e sensação de opressão no peito. A sintomatologia da asma está mais ligada ao processo de expiração, pela sua natureza obstrutiva.
 

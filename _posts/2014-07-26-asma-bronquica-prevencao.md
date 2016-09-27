@@ -4,7 +4,7 @@ title: Prevenção da asma brônquica
 permalink: asma-bronquica-prevencao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Embora não exista cura para asma, grande parte das exacerbações podem ser evitadas. Quem sofre de asma extrínseca, pode submeter-se a testes cujo objectivo é detectar se os ataques são desencadeados por algum dos agentes alergenos mais comuns. Se for descoberta uma causa específica, podem ser tomadas medidas para a evitar. Por exemplo, se as crises asmáticas são provocadas pelo pólen, o utente deve evitar jardins e as idas ao campo durante a Primavera. Pode recorrer-se à dessensibilização (uma série de injecções do agente alergenos), embora os resultados nem sempre sejam satisfatórios. Os medicamentos profiláticos (preventivos) demonstraram ser muito mais eficazes na prevenção dos ataques, contando-se entre estas substâncias os anti-alérgicos (anti-histamínicos; cromoglicato de sódio) e os corticosteróides por via inalatória. Porém, para serem eficazes, têm de ser administrados várias vezes ao dia, em geral com um inalador.
 

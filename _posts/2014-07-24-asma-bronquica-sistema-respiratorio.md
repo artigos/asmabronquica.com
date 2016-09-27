@@ -4,16 +4,16 @@ title: Sistema Respiratório
 permalink: asma-bronquica-sistema-respiratorio.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Revisão Anatomo-fisiológica do Sistema Respiratório.
 
-##Introdução
+## Introdução
 
 “A respiração é necessária porque todas as células vivas do organismo necessitam de oxigénio e produzem dióxido de carbono.”. (Seeley, R. , entre outros, pág. 786)
 Assim, “as __funções do sistema respiratório__ são: prover o oxigénio necessário ao metabolismo das células e remover um dos materiais desse metabolismo, que é o gás carbônico. Isto implica num processo de __respiração externa__, absorção de O2 e remoção de CO2 dos pulmões, e __respiração interna__, troca gasosa entre as células e seu meio líquido.”. (Jacob, Francone e Lossow, pág. 378)
 
-##Aparelho Respiratório – Estruturas e Músculos
+## Aparelho Respiratório – Estruturas e Músculos
 
 O aparelho respiratório é constituído pelos __pulmões__ e por um conjunto de órgãos –__vias aéreas__ (cavidade nasal, faringe, laringe, traqueia, brônquios, árvore brônquica , até chegar ao __alvéolo__). (Ribeiro, A. _et all_, 2004)
 
@@ -59,7 +59,7 @@ Os músculos da ventilação diferem dos outros músculos esqueléticos em três
 </tbody>
 </table>
 
-##Ventilação pulmonar
+## Ventilação pulmonar
 
 A ventilação pulmonar é o processo pelo qual o ar entra e sai dos pulmões. A ventilação pulmonar é constituída por duas fases: inspiração e expiração. (Ribeiro, A._et all_, 2004)
 
@@ -75,7 +75,7 @@ A __inspiração forçada__ requer não só contracções mais fortes dos mús
 
 A __expiração forçada__ é um processo activo que requer a contracção dos músculos abdominais provocando a elevação do diafragma e também a contracção dos intercostais internos reduzindo o diâmetro do tórax.
 
-##Mecanismo do Diafragma: Sinergia com os Antagonistas
+## Mecanismo do Diafragma: Sinergia com os Antagonistas
 
 “O __diafragma__ é uma grande cúpula de músculo esquelético que separa a cavidade torácica da abdominal. (...) Quando o diafragma se contrai a sua cúpula achata, aumentando o volume das cavidades torácica e pleural.”. (Seeley, R. , entre outros, pág. 794)
 Assim sendo, o diafragma é o principal músculo inspirador e o responsável pelas maiores variações dos diâmetros vertical, horizontal e antero-posterior da caixa torácica. (Ribeiro, A. _et all_, 2004)

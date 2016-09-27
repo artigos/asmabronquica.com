@@ -4,7 +4,7 @@ title: Tratamento da asma brônquica
 permalink: asma-bronquica-tratamento.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O tratamento efectivo da asma fundamenta-se em 4 componentes básicos: medidas objectivas da função pulmonar, terapia farmacológica, medidas ambientais para controlo de alergénos e substâncias irritantes e orientação do paciente. (Coutinho, E., 2005)
 

@@ -4,7 +4,7 @@ title: Definição da asma brônquica
 permalink: asma-bronquica-definicao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O sentido etimológico da palavra __asma__, advém do grego e significa ofegante; dificuldade na respiração. (Nunes, L., 2003)
 Esta patologia tem uma incidência de 3% a 8% da população. (Coutinho,E., 2005)

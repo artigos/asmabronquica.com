@@ -4,20 +4,20 @@ title: Nota histórica relativamente à asma brônquica
 permalink: asma-bronquica-historia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Antiguidade
+## Antiguidade
 
 __2600 a.C.__ - A asma foi descrita no livro médico “A Teoria do Interior do Corpo”, conhecido como _Nei Ching_. Considerado o livro mais antigo de Medicina Interna, foi escrito por __Huang-Ti__, "o Imperador Amarelo". Nesta publicação é citada a planta _Ma Huang_, da qual a efedrina passou a ser extraída no início do século XX.
 
 __1550 a.C.__ - Os papiros de Ebers, descobertos em Tebas, no ano de 1870, pelo egiptólogo alemão __George Moritz Ebers__ (1837-1898), constituem o mais antigo compêndio médico conhecido do Egipto antigo. Neste livro, existem algumas referências à asma aguda, cujo tratamento consistia na utilização de fezes de animais, como as de crocodilo e as de camelo, associados a ervas como a cebola e o meimendro.
 
 __Hipócrates__ (460-370 a.C.) que afastou da medicina os constrangimentos da especulação filosófica e a superstição,   introduzindo seus princípios éticos e científicos, distinguindo a medicina como uma ciência e profissão de grande dignidade, descreveu a asma como um ataque paroxístico, mais severo do que uma simples dispneia. A condição espasmódica da asma era comparada a uma convulsão epiléptica, que era vista como um castigo divino.
-##Idade Média
+## Idade Média
 
 __Moses ben Maimonides__ (1135-1204), filósofo judeu e rabino, foi chamado para tratar do Príncipe Al Afdal Nur Din Ali, que desenvolveu asma brônquica tardia, aos 40 anos de idade. Entre as recomendações prescreveu moderação na alimentação, na ingestão de bebidas e na actividade sexual; sugeriu evitar os ambientes poluídos da cidade e, como remédio específico para a doença, prescreveu canja de galinha. Posteriormente veio a escrever o "Tratado de Asma", onde relatava que a asma poderia ser desencadeada por um resfriado comum, era mais frequente durante a estação das chuvas, e que a poluição do ar da cidade do Cairo poderia em parte ser a responsável pela asma do príncipe. A sua descrição sobre as cidades mencionava: "o ar da cidade é estagnado, turvo, e denso; é o resultado natural de seus grandes edifícios, ruas estreitas, e lixo... Ventos levam o ar para dentro das casas e muitos ficam doentes, com asma, sem se aperceberem disto. A manutenção do ar limpo é a primeira regra para preservar a saúde do corpo e da alma".
 
-##Renascença
+## Renascença
 
 Philippus Aureolus Theophrastus Bombastus von Hohenheim, mais conhecido como __Paracelsus__ (1493-1541), médico e alquimista suíço-alemão, é conhecido como o "pai da farmacologia e terapêutica". Paracelsus sustentava que a asma brônquica só poderia ser curada através de preparações líquidas (substâncias químicas) e não por ervas. Para Paracelsus, o enxofre era a droga que secaria o muco no pulmão asmático quando todas as outras formas de tratamento falhassem.
 
@@ -27,7 +27,7 @@ Em 1698, Sir __John Floyer__ (1649-1734) em seu Tratado de Asma fez referênci
 
 __Bernardino Ramazzini__, é reconhecido como o "pai da medicina ocupacional". Publicou suas observações no _De Morbis Artificium Diatriba_. No início do século XVIII, Ramazzini estabeleceu a relação entre poeiras irritantes orgânicas e dispneia e, também com a reacção urticariforme em trabalhadores que manuseavam cereais, tendo descrito  minuciosamente as consequências pulmonares de várias profissões. Relatou  a asma naqueles que manipulavam velhos colchões e roupas velhas empoeiradas - provavelmente infestadas por ácaros da poeira.
 
-##Século XIX
+## Século XIX
 
 __Armand Trousseau__ (1801-1867), famoso médico francês, conhecido pelo Sinal de Trousseau, para o diagnóstico da hipocalcemia (tetania), também contribuiu com seus estudos e observações sobre a doença. Sofria de asma e em certa ocasião descreveu a pior das suas crises: início rápido, com profusa rinorréia, lacrimejante, presença de dispneia e opressão torácica, apresentando melhoras 10 minutos após fumar um charuto. Relatou também que em certos asmáticos bastava a presença de um gato ou coelho no recinto para desencadear a crise. Trousseau era adepto, para o tratamento da doença, do uso do estramónio, cigarros de arsénico, éter, clorofórmio e vapores de nitrato de potássio.
 
@@ -37,7 +37,7 @@ __1846__ - Em 26 de abril de 1846, um dos secretários da Sociedade de Medicina
 
 __1849__ – Marca o início da terapêutica com aerossol, aquando a invenção do nebulizador por __Euget-les-Bains__.
 
-##Século XX
+## Século XX
 
 __1900__ - Publicado o primeiro estudo sobre a utilização do corticóide em asma aguda, por __S. Solis-Cohen__, que utilizou um extrato bruto de glândula adrenal.
 __1928__ - __H. Dekker __foi o primeiro a relacionar ácaro e asma.
